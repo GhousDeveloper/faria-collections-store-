@@ -1,0 +1,6 @@
+{
+  "name": "FARIA COLLECTIONS - Premium Fashion Store",
+  "description": "Premium fashion e-commerce store offering trending dresses, tops, ethnic wear, co-ord sets, and accessories with effortless elegance.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

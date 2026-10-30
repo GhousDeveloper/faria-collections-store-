@@ -1,107 +1,96 @@
-<!-- ═══════════════════════ HERO BANNER ═══════════════════════ -->
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:32104F,35:762B83,70:C04485,100:F0A36B&text=FARIA%20COLLECTIONS&fontSize=48&fontColor=FFFFFF&fontAlignY=40&desc=FASHION%20FOR%20EVERY%20MOMENT&descSize=17&descAlignY=59&animation=fadeIn&stroke=F4C6E7&strokeWidth=1" width="100%" alt="FARIA COLLECTIONS — Fashion For Every Moment"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:210B35,30:5E1B70,65:C52E83,100:FFAD78&text=FARIA%20COLLECTIONS&fontSize=48&fontColor=FFFFFF&fontAlignY=38&desc=FASHION%20FOR%20EVERY%20MOMENT&descSize=18&descAlignY=58&animation=fadeIn" width="100%" alt="FARIA COLLECTIONS Banner"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=700&size=24&pause=1000&color=C52E83&center=true&vCenter=true&width=750&lines=Discover+Your+Signature+Style+%E2%9C%A8;Luxury+Looks.+Everyday+Confidence.;Modern+Fashion%2C+Beautifully+Presented.;Your+Style.+Your+Moment.+FARIA." alt="Animated tagline"/>
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=700&size=24&pause=1200&color=C04485&center=true&vCenter=true&width=750&height=55&lines=Discover+Your+Signature+Style+%E2%9C%A8;Luxury+Looks.+Everyday+Confidence.;Modern+Fashion%2C+Beautifully+Presented.;Your+Style.+Your+Moment.+FARIA." alt="Animated Fashion Taglines"/>
+### ✨ Style • Elegance • Confidence ✨
 
-<br/>
-
-### ✨ Fashion For Every Moment ✨
-
-*A modern fashion e-commerce experience where contemporary style meets a premium digital storefront.*
+**A modern fashion e-commerce experience inspired by luxury retail.**
 
 <br/>
 
 <a href="https://faria-collections.netlify.app/">
-<img src="https://img.shields.io/badge/%E2%9C%A8%20EXPLORE%20LIVE%20STORE-C04485?style=for-the-badge&logo=netlify&logoColor=white" alt="Explore Live Store"/>
+<img src="https://img.shields.io/badge/🌸_VISIT_LIVE_STORE-C52E83?style=for-the-badge&logo=netlify&logoColor=white" alt="Visit Live Store"/>
 </a>
 &nbsp;
 <a href="https://github.com/GhousDeveloper/faria-collections-store-">
-<img src="https://img.shields.io/badge/VIEW%20SOURCE%20CODE-32104F?style=for-the-badge&logo=github&logoColor=white" alt="View Source Code"/>
+<img src="https://img.shields.io/badge/VIEW_SOURCE_CODE-210B35?style=for-the-badge&logo=github&logoColor=white" alt="View Source Code"/>
 </a>
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/React-19-61DAFB?style=flat-square&logo=react&logoColor=white" alt="React 19"/>
-<img src="https://img.shields.io/badge/TypeScript-Strict-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/>
-<img src="https://img.shields.io/badge/Vite-8-646CFF?style=flat-square&logo=vite&logoColor=white" alt="Vite 8"/>
-<img src="https://img.shields.io/badge/Tailwind_CSS-v4-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS v4"/>
-<img src="https://img.shields.io/badge/Design-Premium_Fashion-C04485?style=flat-square" alt="Premium Fashion Design"/>
-<img src="https://img.shields.io/badge/Market-Pakistan-238636?style=flat-square" alt="Pakistan-focused Store"/>
+<img src="https://img.shields.io/badge/React-19-61DAFB?style=flat-square&logo=react&logoColor=white"/>
+<img src="https://img.shields.io/badge/TypeScript-Strict-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/Vite-8-646CFF?style=flat-square&logo=vite&logoColor=white"/>
+<img src="https://img.shields.io/badge/Tailwind_CSS-v4-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/>
+<img src="https://img.shields.io/badge/Responsive-Design-C52E83?style=flat-square"/>
 
 </div>
 
 ---
 
-## 💎 A New Perspective on Online Fashion
+## 💎 About the Project
 
-**FARIA COLLECTIONS** is a modern, responsive fashion e-commerce storefront inspired by luxury retail experiences and contemporary fashion brands.
+**FARIA COLLECTIONS — Fashion For Every Moment** is a modern, responsive fashion e-commerce storefront featuring an elegant visual identity, editorial typography, vibrant gradients, curated collections, and an interactive shopping experience.
 
-Designed with editorial typography, vibrant gradients, curated collections, and an elegant shopping interface, the project brings fashion discovery and online shopping together in one immersive experience.
-
-From exploring the latest trends to selecting products, managing a wishlist, and navigating a Pakistan-friendly checkout, every part of the storefront is designed around a smooth and engaging customer journey.
+Built to bring the feel of premium fashion retail to the web, FARIA COLLECTIONS combines product discovery, shopping cart interactions, wishlist management, promotional offers, and a Pakistan-friendly checkout experience.
 
 <div align="center">
 
-### ✨ Discover Your Style. Elevate Your Everyday. ✨
+> *Your Style. Your Moment. FARIA.* 💗
 
 </div>
 
 ---
 
-## 🖼️ Inside the Storefront
+## 🖼️ Website Preview
 
 <div align="center">
 
-### 01 — The Fashion Experience
+### 01 — Homepage & Fashion Experience
 
 <a href="https://faria-collections.netlify.app/">
-<img src="https://raw.githubusercontent.com/GhousDeveloper/faria-collections-store-/f04f4732121ad1542f97a110a0ff5b40f80bcd97/src/assets/Saved%20Pictures/Capture.PNG" width="95%" alt="FARIA COLLECTIONS homepage and fashion storefront"/>
+<img src="https://raw.githubusercontent.com/GhousDeveloper/faria-collections-store-/f04f4732121ad1542f97a110a0ff5b40f80bcd97/src/assets/Saved%20Pictures/Capture.PNG" width="95%" alt="FARIA COLLECTIONS homepage"/>
 </a>
 
-*An immersive storefront designed to showcase fashion, featured collections, and promotional experiences.*
+<br/><br/>
+
+### 02 — Collection & Shopping Interface
+
+<img src="https://raw.githubusercontent.com/GhousDeveloper/faria-collections-store-/f04f4732121ad1542f97a110a0ff5b40f80bcd97/src/assets/Saved%20Pictures/55.PNG" width="95%" alt="Fashion collection page"/>
+
+<br/><br/>
+
+### 03 — Customer Dashboard
+
+<img src="https://raw.githubusercontent.com/GhousDeveloper/faria-collections-store-/f04f4732121ad1542f97a110a0ff5b40f80bcd97/src/assets/Saved%20Pictures/dash.PNG" width="95%" alt="Customer dashboard"/>
+
+<br/><br/>
+
+### 04 — Product Details
+
+<img src="https://raw.githubusercontent.com/GhousDeveloper/faria-collections-store-/f04f4732121ad1542f97a110a0ff5b40f80bcd97/src/assets/Saved%20Pictures/p2.PNG" width="95%" alt="Product details page"/>
+
+<br/><br/>
+
+### 05 — Cart & Shopping Experience
+
+<img src="https://raw.githubusercontent.com/GhousDeveloper/faria-collections-store-/f04f4732121ad1542f97a110a0ff5b40f80bcd97/src/assets/Saved%20Pictures/p23.PNG" width="95%" alt="Shopping cart and checkout"/>
 
 <br/>
 
-### 02 — Explore the Collection
-
-<img src="https://raw.githubusercontent.com/GhousDeveloper/faria-collections-store-/f04f4732121ad1542f97a110a0ff5b40f80bcd97/src/assets/Saved%20Pictures/55.PNG" width="95%" alt="FARIA COLLECTIONS fashion shopping interface"/>
-
-*Discover fashion through a clean, modern shopping experience.*
-
-<br/>
-
-### 03 — Dashboard & Shopping Experience
-
-<img src="https://raw.githubusercontent.com/GhousDeveloper/faria-collections-store-/f04f4732121ad1542f97a110a0ff5b40f80bcd97/src/assets/Saved%20Pictures/dash.PNG" width="95%" alt="FARIA COLLECTIONS dashboard screenshot"/>
-
-*An overview of the store's interface and customer-facing experience.*
-
-<br/>
-
-### 04 — Product Presentation
-
-<img src="https://raw.githubusercontent.com/GhousDeveloper/faria-collections-store-/f04f4732121ad1542f97a110a0ff5b40f80bcd97/src/assets/Saved%20Pictures/p2.PNG" width="95%" alt="FARIA COLLECTIONS product page screenshot"/>
-
-*Product-focused visuals designed to make browsing more engaging.*
-
-<br/>
-
-### 05 — More Fashion, More Possibilities
-
-<img src="https://raw.githubusercontent.com/GhousDeveloper/faria-collections-store-/f04f4732121ad1542f97a110a0ff5b40f80bcd97/src/assets/Saved%20Pictures/p23.PNG" width="95%" alt="FARIA COLLECTIONS additional storefront screenshot"/>
-
-*Explore the visual details and styling of the FARIA COLLECTIONS experience.*
+<a href="https://faria-collections.netlify.app/">
+<img src="https://img.shields.io/badge/EXPLORE_THE_LIVE_WEBSITE-Discover_FARIA-CE3A91?style=for-the-badge&logo=netlify&logoColor=white" alt="Explore live website"/>
+</a>
 
 </div>
 
 ---
 
-## ✨ Features That Make It Special
+## ✨ Key Features
 
 <table>
 <tr>
@@ -110,23 +99,23 @@ From exploring the latest trends to selecting products, managing a wishlist, and
 ### 👗 Fashion Discovery
 
 - Circular category navigation
-- Trending Now product carousel
+- Trending Now carousel
 - New Arrivals showcase
-- Curated seasonal collections
+- Seasonal collection banners
 - Promotional offer sections
-- Responsive product browsing
+- Modern product presentation
 
 </td>
 <td width="50%" valign="top">
 
-### 🔎 Smart Product Browsing
+### 🔍 Product Browsing
 
 - Product catalog interface
-- Category-based filtering
-- Price range selection
+- Category filtering
+- Price range filters
 - Size and rating filters
 - Sorting options
-- Instant search experience
+- Instant search with autocomplete
 
 </td>
 </tr>
@@ -135,11 +124,11 @@ From exploring the latest trends to selecting products, managing a wishlist, and
 
 ### 🛍️ Interactive Shopping
 
-- Shopping cart drawer
+- Slide-out cart drawer
 - Dedicated cart page
 - Product quick view
 - Size and color selection
-- Product image gallery
+- Multi-image product gallery
 - Related product recommendations
 
 </td>
@@ -150,9 +139,9 @@ From exploring the latest trends to selecting products, managing a wishlist, and
 - Wishlist management
 - Move wishlist items to cart
 - Customer profile interface
-- Saved shipping addresses
+- Saved addresses
 - Order status timeline
-- Responsive mobile experience
+- Responsive layouts
 
 </td>
 </tr>
@@ -164,21 +153,21 @@ From exploring the latest trends to selecting products, managing a wishlist, and
 - Pakistani city selection
 - Standard and express shipping
 - Cash on Delivery option
-- Card and mobile payment options
-- Discount coupon interface
-- Order confirmation reference
+- Card payment option
+- EasyPaisa and JazzCash options
+- Coupon and order confirmation interfaces
 
 </td>
 <td width="50%" valign="top">
 
-### 🎨 Premium Visual Design
+### 🎨 Premium Design
 
-- Deep plum and violet tones
+- Deep plum and violet palette
 - Magenta and sunset accents
-- Editorial-style typography
-- Modern gradients
-- Clean product presentation
-- Elegant, responsive layouts
+- Editorial typography
+- Gradient visual effects
+- Elegant product cards
+- Mobile-friendly experience
 
 </td>
 </tr>
@@ -186,59 +175,70 @@ From exploring the latest trends to selecting products, managing a wishlist, and
 
 ---
 
-## 🎟️ Promotional Experience
-
-FARIA COLLECTIONS features promotional concepts designed to make fashion shopping more engaging.
+## 🎁 Promotional Offers
 
 <div align="center">
 
-| 🛍️ Promotion | 🎁 Offer |
+| ✨ Promotion | 💝 Offer |
 |:---|:---|
-| Seasonal Sale | Up to 60% OFF |
-| Bundle Offer | Buy 2 Get 1 Free |
-| Shipping Offer | Free Shipping |
-| Coupon Code | `FARIA10` |
-| Coupon Code | `FARIA20` |
-| Shipping Coupon | `FREESHIP` |
+| Seasonal Sale | **Up to 60% OFF** |
+| Bundle Deal | **Buy 2 Get 1 Free** |
+| Shipping Offer | **Free Shipping** |
+| Discount Code | `FARIA10` |
+| Discount Code | `FARIA20` |
+| Shipping Code | `FREESHIP` |
 
 </div>
 
-*Note: These are the project's configured promotional concepts. Actual payment processing, coupon validation, and order fulfillment depend on the implemented integrations.*
+*Offers and coupon codes are part of the storefront experience; production validation and payment processing depend on the actual backend and payment integrations.*
 
 ---
 
-## 🛠️ Built With Modern Technologies
+## 🛠️ Tech Stack
 
 <div align="center">
 
-| Technology | Role |
+| Technology | Purpose |
 |:---|:---|
-| ⚛️ React 19 | Component-based user interface |
-| 📘 TypeScript | Type-safe application development |
-| ⚡ Vite 8 | Development server and build tooling |
-| 🎨 Tailwind CSS v4 | Utility-first styling and responsive design |
-| 🧩 Lucide React | Modern interface icons |
+| ⚛️ React 19 | Component-based UI |
+| 📘 TypeScript | Type-safe development |
+| ⚡ Vite 8 | Development and production build tooling |
+| 🎨 Tailwind CSS v4 | Responsive styling |
+| 🧩 Lucide React | Interface icons |
 | 🔤 Google Fonts | Playfair Display and Plus Jakarta Sans |
-| 💾 Context API | Shared application state |
-| 🗄️ LocalStorage | Browser-side persistence for supported data |
+| 🔄 Context API | Shared application state |
+| 💾 LocalStorage | Browser-side persistence for supported data |
 
 </div>
 
-### 🎨 Design Philosophy
+---
 
-The visual identity combines luxury-inspired editorial design with a modern e-commerce interface.
+## 🎨 Design System
 
-- **Deep Plum:** Sophistication and elegance.
-- **Violet & Magenta:** Contemporary fashion energy.
-- **Sunset Tones:** Warmth and visual contrast.
-- **Playfair Display:** Editorial headlines with a premium feel.
-- **Plus Jakarta Sans:** Clean, readable interface typography.
+<div align="center">
+
+| Color | Hex | Style |
+|:---|:---|:---|
+| 🟣 Deep Plum | `#32104F` | Luxury & depth |
+| 💜 Violet | `#762B83` | Creativity |
+| 💗 Magenta | `#C04485` | Fashion & energy |
+| 🧡 Sunset | `#F0A36B` | Warmth & contrast |
+
+<br/>
+
+**Typography**
+
+`Playfair Display` — Editorial headings
+
+`Plus Jakarta Sans` — Modern interface text
+
+</div>
 
 ---
 
-## 🚀 Run Locally
+## 🚀 Getting Started
 
-Want to explore the source code or continue developing the project?
+Run FARIA COLLECTIONS locally on your computer.
 
 ### 1. Clone the repository
 
@@ -246,7 +246,7 @@ Want to explore the source code or continue developing the project?
 git clone https://github.com/GhousDeveloper/faria-collections-store-.git
 ```
 
-### 2. Open the project directory
+### 2. Enter the project directory
 
 ```bash
 cd faria-collections-store-
@@ -264,54 +264,54 @@ npm install
 npm run dev
 ```
 
-### 5. Create a production build
+### 5. Build for production
 
 ```bash
 npm run build
 ```
 
-*Ensure your local Node.js version satisfies the requirements of the project's installed Vite version.*
+*Make sure your installed Node.js version meets the requirements of your project's Vite version.*
 
 ---
 
-## 🌐 Explore FARIA COLLECTIONS
+## 🌐 Experience FARIA COLLECTIONS
 
 <div align="center">
 
+<img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=600&size=25&pause=1300&color=C04485&center=true&vCenter=true&width=650&height=50&lines=Find+Your+Style.;Celebrate+Every+Moment.;Make+Fashion+Your+Own." alt="Fashion tagline animation"/>
+
+<br/>
+
 <a href="https://faria-collections.netlify.app/">
-<img src="https://img.shields.io/badge/OPEN%20THE%20LIVE%20EXPERIENCE-Explore%20FARIA%20COLLECTIONS-C04485?style=for-the-badge&logo=netlify&logoColor=white" alt="Open FARIA COLLECTIONS"/>
+<img src="https://img.shields.io/badge/🛍️_SHOP_NOW-https%3A%2F%2Ffaria--collections.netlify.app-C52E83?style=for-the-badge&logo=netlify&logoColor=white" alt="Shop FARIA COLLECTIONS"/>
 </a>
 
 <br/><br/>
 
-**Your next favorite look is just a click away.**
-
-*Discover the collection. Find your style. Make every moment fashionable.*
+**Fashion is more than what you wear — it's how you express yourself.**
 
 </div>
 
 ---
 
-## 👨‍💻 Designed & Developed By
+## 👨‍💻 Meet the Developer
 
 <div align="center">
-
-<img src="https://img.shields.io/badge/Developer-Ghulam%20Ghous%20Kalwar-32104F?style=for-the-badge" alt="Developer Ghulam Ghous Kalwar"/>
 
 ### Ghulam Ghous Kalwar
 
 **Full-Stack Developer | AI Engineer**
 
-Building modern web experiences, interactive interfaces, and practical digital products.
+Building modern web applications, interactive digital experiences, and practical software solutions.
 
 <br/>
 
 <a href="https://github.com/GhousDeveloper">
-<img src="https://img.shields.io/badge/GitHub-GhousDeveloper-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile"/>
+<img src="https://img.shields.io/badge/GitHub-GhousDeveloper-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile"/>
 </a>
-&nbsp;
+
 <a href="https://github.com/GhousDeveloper/faria-collections-store-">
-<img src="https://img.shields.io/badge/Project-FARIA%20COLLECTIONS-C04485?style=for-the-badge&logo=github&logoColor=white" alt="Project Repository"/>
+<img src="https://img.shields.io/badge/PROJECT-FARIA_COLLECTIONS-C04485?style=for-the-badge&logo=github&logoColor=white" alt="FARIA COLLECTIONS repository"/>
 </a>
 
 </div>
@@ -320,14 +320,14 @@ Building modern web experiences, interactive interfaces, and practical digital p
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=0:F0A36B,50:C04485,100:32104F&section=footer&animation=fadeIn" width="100%" alt="FARIA COLLECTIONS decorative footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=170&color=0:FFAD78,45:C52E83,100:210B35&section=footer&animation=fadeIn" width="100%" alt="FARIA COLLECTIONS footer banner"/>
 
-### ✨ FARIA COLLECTIONS
+### 💜 FARIA COLLECTIONS
 
 **FASHION FOR EVERY MOMENT**
 
-*Made for your style. Inspired by your moments.*
+`Style` &nbsp; • &nbsp; `Elegance` &nbsp; • &nbsp; `Confidence`
 
-<sub>© FARIA COLLECTIONS | Crafted with creativity and modern web technologies.</sub>
+<sub>Designed and developed by Ghulam Ghous Kalwar.</sub>
 
 </div>
